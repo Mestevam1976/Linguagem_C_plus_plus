@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    cout << "Bom dia\n";
+    cout << "Bom dia" <<endl;
     cout << "Boa tarde\n";
     cout << "Boa noite" << endl;
 
