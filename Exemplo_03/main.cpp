@@ -6,6 +6,7 @@ int main()
 {
 
     cout << "Bom dia\n";
+    cout << "Boa tarde\n";
     cout << "Boa noite" << endl;
 
     return 0;
